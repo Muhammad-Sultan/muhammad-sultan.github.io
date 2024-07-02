@@ -43,12 +43,12 @@ Ahnjili holds a PhD in Medicine from Leiden University, Master’s in Cognitive 
 ## AWARDS, FELLOWSHIPS & GRANTS
 <br>
 
-| 2024 &nbsp;&nbsp;&nbsp;| Fresh Perspective |
+| 2024    | Fresh Perspective |
 |---|------------|
 | | Stimulering Fonds |
 | | Netherlands |
-| |  |
 | | Our project 'Screen-to-Soundscape', received the 2024 Fresh Perspective grant from the StimuleringsFonds. This project focuses on cross-sector collaborative projects that offer new perspectives on current crises including the climate crisis, discrimination, migration and asylum crisis, social and opportunity inequality or the housing crisis. |
+
 
 <br>
 
