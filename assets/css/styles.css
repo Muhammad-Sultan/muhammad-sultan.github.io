@@ -14,7 +14,7 @@
     --white: #ffffff;
     --gray: #767575;
     --gray-dark: #434242;
-    --primary: #70D6FF;
+    --primary: #0F67B1;
     --secondary: #4f4f4f;
     --success: #28a745;
     --info: #17a2b8;
@@ -84,7 +84,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #70D6FF;
+    color: #0F67B1;
     margin-top: 0;
     margin-bottom: .5rem
 }
@@ -10476,7 +10476,7 @@ h6 {
     top: 0;
     height: 100vh;
     width: 280px;
-    background: #70D6FF;
+    background: #0F67B1;
     color: #ffffff
 }
 
@@ -10495,7 +10495,7 @@ h6 {
 }
 
 .header .btn-primary {
-    background: #FF70A6;
+    background: black;
     border-color: transparent;
     font-size: 1rem;
     padding-top: 0.5rem
@@ -10531,11 +10531,11 @@ h6 {
 
 .header .nav-item {
     font-weight: bold;
-    color: #FF70A6 !important;
+    color: white !important;
 }
 
 .header .nav-item.active .nav-link {
-    color: #FF70A6;
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .header .nav-item.active .nav-link:hover {
@@ -10548,7 +10548,7 @@ h6 {
 
 .header .nav-item .nav-link:hover {
     text-decoration: underline;
-    color: rgba(0, 0, 0, 0.6)
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .profile-section .profile-image {
