@@ -12,7 +12,7 @@ permalink: /research/
   }
 </style>
 
-## Submitted Papers
+### Submitted Papers
 
 <p><a href="#" class="title">Explainable AI Helps Bridge the AI Skills Gap: Evidence from a Large Bank</a> <span class="co-authors">(with Selina Carter, 2022)</span><br>
 Revising for submission to <i>Information Systems Research</i></p>
@@ -20,7 +20,7 @@ Revising for submission to <i>Information Systems Research</i></p>
 <p><a href="#" class="title">Whom Should Antipiracy Enforcement Actions Target? Evidence from the Mega filmes HD Shutdown in Brazil</a> <span class="co-authors">(with Brett Danaher, 2020)</span><br>
 Revising for submission to <i>Journal of Management Information Systems</i></p>
 
-## Publications in Peer-Reviewed Journals
+### Publications in Peer-Reviewed Journals
 
 <p><a href="#" class="title">How APIs Create Growth by Inverting the Firm</a> <span class="co-authors">(with Seth Benzell & Marshall Van Alstyne, 2022)</span>, Forthcoming, <i>Management Science</i></p>
 
@@ -44,19 +44,19 @@ Revising for submission to <i>Journal of Management Information Systems</i></p>
 
 <p><a href="#" class="title">Historical Health Conditions in Major US Cities: The HUE Data Set</a> <span class="co-authors">(with Brian Bettenhausen, Eric Hanss, & Carlos Villarreal, 2014)</span>, <i>Historical Methods</i>, 47: 67-80.</p>
 
-## Work in Progress
+### Work in Progress
 
 <p><a href="#" class="title">Do Startups Invert? API Networks and Startup Exits</a> <span class="co-authors">(with Seth Benzell & Marshall Van Alstyne)</span></p>
 
 <p><a href="#" class="title">A Scalable Solution to the Facility Location Problem in Data Poor Environments</a> <span class="co-authors">(with Luis Alberro, Joshua Anderson, Tina George, & Kushal Kumar Reddy, 2022)</span></p>
 
-## Policy Reports
+### Policy Reports
 
 <p><a href="#" class="title">Where are the unbanked in Belize? Using Machine Learning small area estimation to improve Financial Inclusion geographic targeting</a> <span class="co-authors">(with Lucia Martin Rivero & Janelle Leslie, May, 2021)</span>, <i>Inter-American Development Bank Monograph</i>, May 2021 http://dx.doi.org/10.18235/0003381</p>
 
 <p><a href="#" class="title">Mapping Income Poverty in Belize Using satellite Features and Machine Learning</a> <span class="co-authors">(with Ryan Engstrom, Michael Mann, Alejandra Mejia, & Lucia Martin Rivero, May, 2020)</span>, <i>Inter-American Development Bank Monograph</i>, May 2020 http://dx.doi.org/10.18235/0002345</p>
 
-## Resting Working Papers
+### Resting Working Papers
 
 <p><span class="title">Unintended Consequences of the African Growth and Opportunity Act: The Role of Trade Diversion and Structural Change</span> <span class="co-authors">(with Klaus-Peter Hellwig)</span><br>
 [draft available upon request]</p>
