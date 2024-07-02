@@ -127,12 +127,20 @@ navigation_header:
     url: /
     icon: fa-solid fa-user
   -
-    title: Gallery
-    url: /gallery/
+    title: Resume
+    url: /cv/
     icon: fa-regular fa-image
   -
-    title: Upcoming Events
+    title: Teaching
     url: /events/
+    icon: fa-regular fa-calendar
+     -
+    title: Rsearch
+    url: /research/
+    icon: fa-regular fa-calendar
+     -
+    title: Blog
+    url: /blog/
     icon: fa-regular fa-calendar
 
 navigation_footer:
