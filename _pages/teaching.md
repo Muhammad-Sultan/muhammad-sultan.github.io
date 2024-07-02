@@ -13,10 +13,12 @@ permalink: /teaching/
             gap: 20px;
               align-items: center;   /* <---- NEW    */
 
-            margin-bottom: 20px;
-                        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
         }
+	.hr {
+ margin-top: 15px;
+ margin-bottom: 15px;
+ }
         .course-code {
             flex: 1;
             max-width: 30%;
@@ -70,6 +72,7 @@ permalink: /teaching/
         <p>Fall 2019 (x2) [Instructor rating: 4.32/5]</p>
     </div>
 </div>
+	        <hr>
 <div class="container">
     <div class="course-code">
         <h2>BUS 659</h2>
@@ -82,6 +85,7 @@ permalink: /teaching/
         <p>Fall 2019 [Instructor rating: 3.49/5]</p>
     </div>
 </div>
+	        <hr>
 <div class="container">
     <div class="course-code">
         <h2>ECON 441</h2>
@@ -92,6 +96,7 @@ permalink: /teaching/
         <p>Spring 2018 [Instructor rating: 3.81/5]</p>
     </div>
 </div>
+	        <hr>
 <div class="container">
     <div class="course-code">
         <h2>MGSC 207</h2>
@@ -101,6 +106,7 @@ permalink: /teaching/
         <p>Fall 2017 [<a href="#">Syllabus</a>] [Instructor rating: 4.21/5]</p>
     </div>
 </div>
+	        <hr>
 <div class="container">
     <div class="course-code">
         <h2>MIT</h2>
@@ -110,6 +116,7 @@ permalink: /teaching/
         <p>Fall 2017 [<a href="#">Syllabus</a>]</p>
     </div>
 </div>
+	        <hr>
 <div class="container">
     <div class="course-code">
         <h2>Wellesley College</h2>
@@ -119,6 +126,7 @@ permalink: /teaching/
         <p>Spring 2016 [<a href="#">Syllabus</a>] [92.8% course recommend/strongly recommend/neutral]</p>
     </div>
 </div>
+	        <hr>
 <div class="container">
     <div class="course-code">
         <h2>Wellesley College</h2>
@@ -128,6 +136,7 @@ permalink: /teaching/
         <p>Spring 2016 (x2) [<a href="#">Syllabus</a>] [95.2% course recommend/strongly recommend/neutral]</p>
     </div>
 </div>
+	        <hr>
 <div class="container">
     <div class="course-code">
         <h2>World Bank</h2>
@@ -140,6 +149,7 @@ permalink: /teaching/
         <p>Summer 2016</p>
     </div>
 </div>
+	        <hr>
 <div class="container">
     <div class="course-code">
         <h2>Other Short Courses</h2>
@@ -148,6 +158,7 @@ permalink: /teaching/
     <div class="course-info">
     </div>
 </div>
+	        <hr>
 <div class="container">
     <div class="course-code">
         <h2>Inter-American Development Bank</h2>
@@ -156,6 +167,7 @@ permalink: /teaching/
     <div class="course-info">
     </div>
 </div>
+	        <hr>
 <div class="container">
     <div class="course-code">
         <h2>Central Bank of Belize</h2>
@@ -164,6 +176,7 @@ permalink: /teaching/
     <div class="course-info">
     </div>
 </div>
+	        <hr>
 <div class="container">
     <div class="course-code">
         <h2>Statistical Institute of Belize</h2>
@@ -172,6 +185,7 @@ permalink: /teaching/
     <div class="course-info">
     </div>
 </div>
+	        <hr>
 <div class="container">
     <div class="course-code">
         <h2>Arconic</h2>
