@@ -8,11 +8,11 @@ permalink: /
   margin-left: auto;
   margin-right: auto;
   width: 100%;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
   transform: rotateY(20deg);  
 }
 </style>
-<h1> About Me </h1>
+<h1 style="text-align: center;"> About Me </h1>
   <img src="/assets/images/headshot_teaching.jpg" style="max-width:100%;" class="center"> <br>
 Hi. I’m an assistant professor of economics and management science at Chapman University Argyros School of Business in Orange County, CA. Previously I lectured at MIT and Wellesley College.
 
