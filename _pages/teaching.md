@@ -19,12 +19,13 @@ permalink: /teaching/
  }
         .course-code {
             flex: 1;
-            max-width: 30%;
+            max-width: 40%;
             padding: 20px;
+	padding-right:10px;		
         }
         .course-info {
             flex: 1;
-         width: 70%;
+         width: 60%;
             padding: 20px;
         }
 	.course-full {
