@@ -8,8 +8,7 @@ permalink: /
   margin-left: auto;
   margin-right: auto;
   width: 100%;
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
-  transform: rotateY(20deg);  
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
 }
 </style>
 <h1 style="text-align: center;"> About Me </h1>
