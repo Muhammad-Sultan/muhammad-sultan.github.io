@@ -24,6 +24,49 @@ Ahnjili Zhuparris, PhD (NL, USA), is an AI engineer and AI artist, working betwe
 Ahnjili holds a PhD in Medicine from Leiden University, Master’s in Cognitive Neuroscience from Radboud University and a Bachelor's in Neuroscience from the University of Edinburgh. She is a recipient of the Mozilla Creative Media Award. Ahnjili’s work has garnered support from the Mozilla Foundation (US), IMPAKT(NL), and Constant (BE) and has showcased her work at Ars Electronica (AU), Articulating Data (UK), and the CICA Museum (KR).
 
 <br>
+
+<style>
+  .custom-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .custom-table th, .custom-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  .custom-table th {
+    background-color: #f2f2f2;
+  }
+</style>
+
+<table class="custom-table">
+  <tr>
+    <th>2020 - 2024</th>
+    <th>PhD in Medicine</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Leiden University</td>
+  </tr>
+  <tr>
+    <th>2016 - 2018</th>
+    <th>MSc in Cognitive Neuroscience</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Radboud Universiteit</td>
+  </tr>
+  <tr>
+    <th>2012 - 2016</th>
+    <th>BSc in Biomedical Sciences (with Honours)</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Edinburgh University</td>
+  </tr>
+</table>
+<br>
 ## EDUCATION
 <br>
 
