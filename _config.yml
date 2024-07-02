@@ -9,14 +9,14 @@ encoding      :  utf-8              # Site encoding (utf-8 for Unicode)
 icon        :  '/logo.jpg'  # Site favicon
 logo        :  '/logo.jpg'     # Site logo, also used in jekyll-seo-tag
 home-bg       :  '/assets/images/home-bg.jpg'  # Home background image
-url         :  'https://www.artificialnouveau.com/' # Site URL (if using a custom domain)
+url         :  'http://jonathan-hersh.com/' # Site URL (if using a custom domain)
 baseurl       :  ''               # Site base URL (add if site is not at root)
 repo        :  'https://github.com/' # Site repository, also used in jekyll-seo-tag
 description     :  > # Site description and default description, also used in jekyll-seo-tag
   Ahnjili is an AI engineer, Ph.D. candidate, artist, and science communicator.
 keywords      :  > # For SEO
   jekyll, theme, minimal, responsive, blog, portfolio, fast, seo, social, web, development
-footer_text     :  '© 2021 Inkstream' # Footer text
+footer_text     :  '' # Footer text
 
 
 
@@ -129,19 +129,19 @@ navigation_header:
   -
     title: Resume
     url: /cv/
-    icon: fa-regular fa-image
+    icon: fa-solid fa-file
   -
     title: Teaching
-    url: /events/
-    icon: fa-regular fa-calendar
+    url: /teaching/
+    icon: fa-solid fa-chalkboard-user
   -
-    title: Rsearch
+    title: Research
     url: /research/
-    icon: fa-regular fa-calendar
+    icon: fa-solid fa-book
   -
     title: Blog
     url: /blog/
-    icon: fa-regular fa-calendar
+    icon: fa-solid fa-blog
 
 navigation_footer:
   -
