@@ -2,6 +2,54 @@
 title: Home
 permalink: /
 ---
+
+
+<style>
+ .container {
+    display: flex;
+    flex-direction: row;
+    /* Adjust alignment and spacing as needed */
+}
+
+.left-column {
+    flex: 1;
+    padding: 20px;
+    /* Add any other styling you want for the left column */
+}
+
+.right-column {
+    flex: 1;
+    padding: 20px;
+    /* Add any other styling you want for the right column */
+}
+</style>
+<div class="container">
+    <div class="left-column">
+        <!-- Your text content goes here -->
+        <p>
+Hi. I’m an assistant professor of economics and management science at Chapman University Argyros School of Business in Orange County, CA. Previously I lectured at MIT and Wellesley College.
+
+I focus on two broad areas of research: (1) using machine learning models to improve managerial decision-making; and (2) understanding the economic and social challenges of platforms and digitization.
+
+I use both predictive methods (applied machine learning and artificial intelligence, in particular computer vision models) and causal inference methods to answer these questions. My research has appeared in business, economics, and general science journals (Management Science, MIS Quarterly, Proceedings of the National Academy of Sciences, World Bank Economic Review) and computer science journals and conferences (Machine Learning with Applications, Conference on Neural Information Processing Systems).
+
+At Chapman I teach courses in machine learning, business analytics and development economics. I am interested in pedagogical methods for delivering the best possible training in these methods. I’m always happy to talk with Chapman University students and faculty, particularly those interested in economic development and/or data science.
+            <!-- Add more text content as needed -->
+        </p>
+    </div>
+    <div class="right-column">
+        <!-- Your image goes here -->
+        <img src="http://jonathan-hersh.com/wp-content/uploads/2018/08/Headshot_teaching.jpg" alt="Headshot" width="300">
+    </div>
+</div>
+
+
+
+
+
+
+
+
 <style>
  h2 {
   color: #FF70A6; /* Change this to your desired color */
