@@ -10,6 +10,9 @@ permalink: /research/
   .co-authors {
     font-style: italic;
   }
+  h3 {
+  font-weight: 600;
+  }
 </style>
 
 ### Submitted Papers
