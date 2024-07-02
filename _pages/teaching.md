@@ -29,7 +29,8 @@ permalink: /teaching/
             padding: 20px;
         }
 	.course-full {
- width: 100%;
+	flex: 1;
+ 	width: 100%;
 	}
  .course-full h2 {
             margin-top: 0;
@@ -189,7 +190,7 @@ permalink: /teaching/
 </div>
 	        <hr class="solid">
 <div class="container">
-    <div class="course-code">
+    <div class="course-full">
         <h2>Arconic</h2>
         <p>Introduction to Deep Learning, 2018</p>
     </div>
