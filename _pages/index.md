@@ -8,8 +8,8 @@ permalink: /
   margin-left: auto;
   margin-right: auto;
   width: 100%;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
-}
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+  transform: rotateY(10deg);}
 </style>
 <h1 style="text-align: center;"> About Me </h1>
   <img src="/assets/images/headshot_teaching.jpg" style="max-width:100%;" class="center"> <br>
