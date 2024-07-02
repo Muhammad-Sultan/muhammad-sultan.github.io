@@ -11,7 +11,6 @@ permalink: /teaching/
             display: flex;
             flex-wrap: wrap;
             gap: 20px;
-              align-items: center;   /* <---- NEW    */
         }
  hr.solid {
   border-top: 1px solid #bbb;
@@ -31,6 +30,8 @@ permalink: /teaching/
 	.course-full {
 	flex: 1;
  	width: 100%;
+	padding: 20px;
+
 	}
  .course-full h2 {
             margin-top: 0;
