@@ -2,11 +2,15 @@
 title: Home
 permalink: /
 ---
-
-
-<div style="text-align: center;">
-  <img src="http://jonathan-hersh.com/wp-content/uploads/2018/08/Headshot_teaching.jpg" style="max-width:100%;">
-</div>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+  <img src="http://jonathan-hersh.com/wp-content/uploads/2018/08/Headshot_teaching.jpg" style="max-width:100%;" class="center">
 Hi. I’m an assistant professor of economics and management science at Chapman University Argyros School of Business in Orange County, CA. Previously I lectured at MIT and Wellesley College.
 
 I focus on two broad areas of research: 
