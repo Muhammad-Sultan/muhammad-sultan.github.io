@@ -12,12 +12,11 @@ permalink: /teaching/
             flex-wrap: wrap;
             gap: 20px;
               align-items: center;   /* <---- NEW    */
-
-
         }
-	.hr {
- margin-top: 15px;
- margin-bottom: 15px;
+ hr.solid {
+  border-top: 1px solid #bbb;
+ margin-top: 10px;
+ margin-bottom: 10px;
  }
         .course-code {
             flex: 1;
@@ -28,6 +27,14 @@ permalink: /teaching/
             flex: 1;
          width: 70%;
             padding: 20px;
+        }
+	.course-full {
+ width: 100%;
+	}
+ .course-full h2 {
+            margin-top: 0;
+	    font-size: 20px;
+     	 font-weight:600;
         }
         .course-code h2 {
             margin-top: 0;
@@ -46,7 +53,6 @@ permalink: /teaching/
             flex: 1;
            min-width: 100%;
         }
-        
         .course-info {
             flex: 1;
          min-width: 100%;
@@ -72,7 +78,7 @@ permalink: /teaching/
         <p>Fall 2019 (x2) [Instructor rating: 4.32/5]</p>
     </div>
 </div>
-	        <hr>
+	        <hr class="solid">
 <div class="container">
     <div class="course-code">
         <h2>BUS 659</h2>
@@ -85,7 +91,7 @@ permalink: /teaching/
         <p>Fall 2019 [Instructor rating: 3.49/5]</p>
     </div>
 </div>
-	        <hr>
+	        <hr class="solid">
 <div class="container">
     <div class="course-code">
         <h2>ECON 441</h2>
@@ -96,7 +102,7 @@ permalink: /teaching/
         <p>Spring 2018 [Instructor rating: 3.81/5]</p>
     </div>
 </div>
-	        <hr>
+	        <hr class="solid">
 <div class="container">
     <div class="course-code">
         <h2>MGSC 207</h2>
@@ -106,7 +112,7 @@ permalink: /teaching/
         <p>Fall 2017 [<a href="#">Syllabus</a>] [Instructor rating: 4.21/5]</p>
     </div>
 </div>
-	        <hr>
+	        <hr class="solid">
 <div class="container">
     <div class="course-code">
         <h2>MIT</h2>
@@ -116,17 +122,17 @@ permalink: /teaching/
         <p>Fall 2017 [<a href="#">Syllabus</a>]</p>
     </div>
 </div>
-	        <hr>
+	        <hr class="solid">
 <div class="container">
     <div class="course-code">
         <h2>Wellesley College</h2>
         <p>Development Economics</p>
     </div>
-    <div class="course-info-6">
+    <div class="course-info">
         <p>Spring 2016 [<a href="#">Syllabus</a>] [92.8% course recommend/strongly recommend/neutral]</p>
     </div>
 </div>
-	        <hr>
+	        <hr class="solid">
 <div class="container">
     <div class="course-code">
         <h2>Wellesley College</h2>
@@ -136,7 +142,7 @@ permalink: /teaching/
         <p>Spring 2016 (x2) [<a href="#">Syllabus</a>] [95.2% course recommend/strongly recommend/neutral]</p>
     </div>
 </div>
-	        <hr>
+	        <hr class="solid">
 <div class="container">
     <div class="course-code">
         <h2>World Bank</h2>
@@ -149,50 +155,45 @@ permalink: /teaching/
         <p>Summer 2016</p>
     </div>
 </div>
-	        <hr>
+	        <hr class="solid">
 <div class="container">
-    <div class="course-code">
+    <div class="course-full">
         <h2>Other Short Courses</h2>
         <p>Anahuac University, Mexico City, Introduction to Machine Learning, Winter 2020 [<a href="#">Syllabus</a>]</p>
     </div>
-    <div class="course-info">
-    </div>
+    
 </div>
-	        <hr>
+	        <hr class="solid">
 <div class="container">
-    <div class="course-code">
+    <div class="course-full">
         <h2>Inter-American Development Bank</h2>
         <p>Introduction to Machine Learning, 2018</p>
     </div>
-    <div class="course-info">
-    </div>
+    
 </div>
-	        <hr>
+	        <hr class="solid">
 <div class="container">
-    <div class="course-code">
+    <div class="course-full">
         <h2>Central Bank of Belize</h2>
         <p>Introduction to Machine Learning, 2020 [<a href="#">link</a>]</p>
     </div>
-    <div class="course-info">
-    </div>
+    
 </div>
-	        <hr>
+	        <hr class="solid">
 <div class="container">
-    <div class="course-code">
+    <div class="course-full">
         <h2>Statistical Institute of Belize</h2>
         <p>Introduction to Machine Learning, 2019</p>
     </div>
-    <div class="course-info">
-    </div>
+    
 </div>
-	        <hr>
+	        <hr class="solid">
 <div class="container">
     <div class="course-code">
         <h2>Arconic</h2>
         <p>Introduction to Deep Learning, 2018</p>
     </div>
-    <div class="course-info">
-    </div>
+    
 </div>
 </body>
 </html>
