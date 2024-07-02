@@ -10,7 +10,7 @@ permalink: /
   width: 100%;
 }
 </style>
-  <img src="/assets/headshot_teaching.jpg" style="max-width:100%;" class="center">
+  <img src="/assets/images/headshot_teaching.jpg" style="max-width:100%;" class="center">
 Hi. I’m an assistant professor of economics and management science at Chapman University Argyros School of Business in Orange County, CA. Previously I lectured at MIT and Wellesley College.
 
 I focus on two broad areas of research: 
