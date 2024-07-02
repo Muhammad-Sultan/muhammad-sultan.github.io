@@ -7,7 +7,7 @@ permalink: /
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 100%;
 }
 </style>
   <img src="http://jonathan-hersh.com/wp-content/uploads/2018/08/Headshot_teaching.jpg" style="max-width:100%;" class="center">
