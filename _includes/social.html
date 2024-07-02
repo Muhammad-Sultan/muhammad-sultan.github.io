@@ -1,23 +1,7 @@
-{% if site.social_links.researchgate_username %}
-<li class="list-inline-item">
-  <a href="https://www.researchgate.net/profile/{{ site.social_links.researchgate_username }}" target="_blank">
-    <i class="fab fa-researchgate fa-fw"></i>
-  </a>
-</li>
-{% endif %}
-
-{% if site.social_links.instagram_username %}
-<li class="list-inline-item">
-  <a href="https://www.instagram.com/{{ site.social_links.instagram_username }}" target="_blank">
-    <i class="fab fa-instagram fa-fw"></i>
-  </a>
-</li>
-{% endif %}
-
 {% if site.social_links.github_username %}
 <li class="list-inline-item">
   <a href="https://github.com/{{ site.social_links.github_username }}" target="_blank">
-    <img src="/assets/ssrn.png" style="width:25px;height:25px;">
+    <img src="/assets/ssrn.png" style="width:32px;height:auto;">
   </a>
 </li>
 {% endif %}
@@ -33,7 +17,7 @@
 {% if site.social_links.orcid_id %}
 <li class="list-inline-item">
   <a href="https://orcid.org/{{ site.social_links.orcid_id }}" target="_blank">
-    <img src="/assets/chapman.png">
+    <img src="/assets/chapman.png" style="width:32px;height:32px;">
   </a>
 </li>
 {% endif %}
