@@ -134,11 +134,11 @@ navigation_header:
     title: Teaching
     url: /events/
     icon: fa-regular fa-calendar
-     -
+  -
     title: Rsearch
     url: /research/
     icon: fa-regular fa-calendar
-     -
+  -
     title: Blog
     url: /blog/
     icon: fa-regular fa-calendar
