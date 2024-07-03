@@ -2489,7 +2489,7 @@ textarea.form-control.is-invalid {
 .btn {
     display: inline-block;
     font-weight: 400;
-    color: #FF70A6;
+    color: black;
     text-align: center;
     vertical-align: middle;
     user-select: none;
@@ -2509,7 +2509,7 @@ textarea.form-control.is-invalid {
 }
 
 .btn:hover {
-    color: #FF70A6;
+    color: rgba(0, 0, 0, 0.4);
     text-decoration: none
 }
 
@@ -2531,14 +2531,14 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #ffffff;
-    background-color: #FF70A6;
-    border-color: #FF70A6;
+    background-color: black;
+    border-color: black;
 }
 
 .btn-primary:hover {
     color: #ffffff;
-    background-color: #FF70A6;
-    border-color: #FF70A6;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-color: black;
 }
 
 .btn-primary:focus,
@@ -2549,15 +2549,15 @@ fieldset:disabled a.btn {
 .btn-primary.disabled,
 .btn-primary:disabled {
     color: #ffffff;
-    background-color: #FF70A6;
-    border-color: #6C51A4
+    background-color: rgba(0, 0, 0, 0.4);
+    border-color: ;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active,
 .btn-primary:not(:disabled):not(.disabled).active,
 .show>.btn-primary.dropdown-toggle {
     color: #ffffff;
-    background-color: #FF70A6;
+    background-color: rgba(0, 0, 0, 0.4);
     border-color: #503c79'
 }
 
@@ -4236,7 +4236,7 @@ input[type="button"].btn-block {
 }
 
 .nav-link.disabled {
-    color: #FF70A6;
+    color: rgba(0, 0, 0, 0.4);
     pointer-events: none;
     cursor: default
 }
@@ -4261,7 +4261,7 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs .nav-link.disabled {
-    color: #FF70A6;
+    color: rgba(0, 0, 0, 0.4);
     background-color: transparent;
     border-color: transparent
 }
