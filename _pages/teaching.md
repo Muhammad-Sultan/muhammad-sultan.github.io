@@ -14,8 +14,8 @@ permalink: /teaching/
         }
  hr.solid {
   border-top: 1px solid #bbb;
- margin-top: 10px;
- margin-bottom: 10px;
+ margin-top: 5px;
+ margin-bottom: 5px;
  }
         .course-code {
             flex: 1;
@@ -70,6 +70,9 @@ permalink: /teaching/
                 .course-info a {
 		margin-top:0;
         }
+	.course-full a {
+             color: #007BFF;
+	}
 
     </style>
 </head>
