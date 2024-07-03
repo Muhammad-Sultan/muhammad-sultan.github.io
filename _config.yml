@@ -34,16 +34,11 @@ footer_text     :  '' # Footer text
 # =================================================================================
 
 social_links: # Leave blank according to your need
-  github_username: artificialnouveau  # Keep your existing username
-  researchgate_username: "Ahnjili-Zhuparris"
-  instagram_username: "@artificialnouveau"
-  scholar_username: "6Xpqd-IAAAAJ"  # Scholar uses user ID, not username
-  pubmed_id: "https://www.ncbi.nlm.nih.gov/pubmed/?term=ahnjili+zhuparris"  # PubMed uses publication ID, not username  
-  orcid_id: "0000-0002-1413-1648"
+ 
 
 user:
   name    :  Jonathan Hersh        # Your name (required)
-  bio     :  'Associate professor at Chapman University, specializing in machine learning and economic impacts of digitization.'  # Short bio, You can also provide a links.
+  bio     :  'I am a tenured associate professor at Chapman University, specializing in machine learning for managerial decision-making and the economic impacts of digitization. <br>My research is published in leading journals, and I teach machine learning to MBA students and undergraduates.'  # Short bio, You can also provide a links.
   profession :  ''       # Your profession (optional)
   location  :  ' '           # Your location (optional)
   email    :        # Your email address (optional)
@@ -126,10 +121,6 @@ navigation_header:
     title: About Me
     url: /
     icon: fa-solid fa-user
-  -
-    title: Resume
-    url: /cv/
-    icon: fa-solid fa-file
   -
     title: Teaching
     url: /teaching/
