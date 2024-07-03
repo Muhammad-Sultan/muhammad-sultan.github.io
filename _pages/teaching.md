@@ -167,7 +167,7 @@ permalink: /teaching/
 <div class="container">
     <div class="course-full">
         <h2>Other Short Courses</h2>
-        <p>Anahuac University, Mexico City, Introduction to Machine Learning, Winter 2020 [<a href="/assets/teaching/"  target="_blank">Syllabus</a>]</p>
+        <p>Anahuac University, Mexico City, Introduction to Machine Learning, Winter 2020 </p>
     </div>
     
 </div>
@@ -183,7 +183,7 @@ permalink: /teaching/
 <div class="container">
     <div class="course-full">
         <h2>Central Bank of Belize</h2>
-        <p>Introduction to Machine Learning, 2020 [<a href="/assets/teaching/"  target="_blank">link</a>]</p>
+        <p>Introduction to Machine Learning, 2020</p>
     </div>
     
 </div>
