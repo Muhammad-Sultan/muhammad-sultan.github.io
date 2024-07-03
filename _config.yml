@@ -38,7 +38,7 @@ social_links: # Leave blank according to your need
 
 user:
   name    :  Jonathan Hersh        # Your name (required)
-  bio     :  'I am a tenured associate professor at Chapman University, specializing in machine learning for managerial decision-making and the economic impacts of digitization. <br>My research is published in leading journals, and I teach machine learning to MBA students and undergraduates.'  # Short bio, You can also provide a links.
+  bio     :  'Tenured associate professor at Chapman University, specializing in machine learning and economic impacts of digitization.'  # Short bio, You can also provide a links.
   profession :  ''       # Your profession (optional)
   location  :  ' '           # Your location (optional)
   email    :        # Your email address (optional)
