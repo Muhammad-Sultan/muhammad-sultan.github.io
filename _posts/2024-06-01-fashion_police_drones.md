@@ -1,6 +1,6 @@
 ---
-title: "Fashion Police Drones"
-image: /assets/portfolio/drone_1.jpeg
+title: "Demo Post"
+image: /logo.jpg
 ---
 Fashion Police Drones transforms drones into arbiters of fashion, inviting the audience to set the criteria for fashion norms through an interactive platform. As these drones patrol the gallery, they actively scan for and monitor attendees whose attire matches the audience-defined standards of fashion faux pas, ranging from light-hearted to culturally contentious. This setup provides a unique opportunity for participants to engage directly with the technology, experiencing the implications of surveillance and societal judgment firsthand. The installation not only highlights the whimsical aspects of fashion norms but also prompts serious reflection on the societal and cultural impacts of fashion choices, mirroring real-world issues of discrimination and privacy.
 
