@@ -162,7 +162,7 @@ sup {
 }
 
 a {
-    color: #6C51A4;
+    color: black;
     text-decoration: none;
     background-color: transparent
 }
@@ -2834,8 +2834,8 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-    color: #6C51A4;
-    border-color: #6C51A4
+    color: black;
+    border-color: rgba(0, 0, 0, 0.4);
 }
 
 .btn-outline-primary:hover {
