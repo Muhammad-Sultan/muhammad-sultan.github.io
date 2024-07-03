@@ -2,8 +2,8 @@
 # Site Configuration
 # =================================================================================
 
-title        :          # The site title (if blank, full name will be used instead)
-full_name      :           # The full site name (if blank, title will be used instead)
+title        : Jonathan Hersh         # The site title (if blank, full name will be used instead)
+full_name      : Jonathan Hersh          # The full site name (if blank, title will be used instead)
 lang        :  en               # Site language (en for English)
 encoding      :  utf-8              # Site encoding (utf-8 for Unicode)
 icon        :  '/logo.jpg'  # Site favicon
@@ -13,7 +13,7 @@ url         :  'http://jonathan-hersh.com/' # Site URL (if using a custom domain
 baseurl       :  ''               # Site base URL (add if site is not at root)
 repo        :  'https://github.com/' # Site repository, also used in jekyll-seo-tag
 description     :  > # Site description and default description, also used in jekyll-seo-tag
-  Ahnjili is an AI engineer, Ph.D. candidate, artist, and science communicator.
+  Tenured associate professor at Chapman University, specializing in machine learning and economic impacts of digitization.
 keywords      :  > # For SEO
   jekyll, theme, minimal, responsive, blog, portfolio, fast, seo, social, web, development
 footer_text     :  '' # Footer text
