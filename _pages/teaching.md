@@ -45,12 +45,15 @@ permalink: /teaching/
      	 font-weight:600;
         }
         .course-info a {
-            color: #007BFF;
+            color: blue;
             text-decoration: none;
         }
         .course-info a:hover {
             text-decoration: underline;
         }
+	.course-full a {
+             color: blue;
+	}
         @media only screen and (max-width: 600px) {
         .course-code {
             flex: 1;
@@ -71,7 +74,7 @@ permalink: /teaching/
 		margin-top:0;
         }
 	.course-full a {
-             color: #007BFF;
+             color: #blue;
 	}
 
     </style>
